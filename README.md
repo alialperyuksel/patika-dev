@@ -1,2 +1,2 @@
 # patika-dev
-# www.patika.dev 
+# app.patika.dev/aalpery
